@@ -3,9 +3,6 @@ orange
 yellow
 green
 blue
-indigo
-violet
-black
 gray
-brown
-
+black
+pinkachu
