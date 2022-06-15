@@ -7,3 +7,6 @@ indigo
 violet
 black
 gray
+brown
+green
+pink
