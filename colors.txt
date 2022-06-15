@@ -6,3 +6,5 @@ blue
 gray
 black
 pinkachu
+brown
+pink
